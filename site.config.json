@@ -1,0 +1,19 @@
+{
+  "googleDocId": "1zv-wS9vctNzCmeex2eF6XLSvUQmbH_EboFQlauUpNMc",
+  "siteTitle": "WorldViews Assessment Project",
+  "buttons": [
+    { "label": "Join the project", "url": "https://forms.gle/qP1SjrYFvaL1KaZ78" },
+    { "label": "Read the collaborator agreement", "url": "#agreement" }
+  ],
+  "extraStats": [
+    { "value": "6,000+", "label": "participants targeted (min.)" },
+    { "value": "3+", "label": "continents" }
+  ],
+  "hideSections": [
+    "Not even an initial draft",
+    "Goal definition",
+    "Proposed outline"
+  ],
+  "archiveStart": "ARCHIVES",
+  "archiveEnd": "INFORMATION LOG"
+}
