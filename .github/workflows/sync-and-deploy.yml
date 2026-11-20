@@ -1,0 +1,60 @@
+name: Sync Google Doc and deploy site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 5 * * *"   # every day at 05:17 UTC
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  sync-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the Google Doc as Markdown
+        run: |
+          DOC_ID=$(jq -r .googleDocId site.config.json)
+          if curl -fsSL "https://docs.google.com/document/d/${DOC_ID}/export?format=md" -o /tmp/hub.md \
+             && grep -q '^# ' /tmp/hub.md; then
+            if ! cmp -s /tmp/hub.md content/hub.md; then
+              mv /tmp/hub.md content/hub.md
+              date -u '+%Y-%m-%d %H:%M UTC' > content/last-sync.txt
+              echo "Content updated."
+            else
+              echo "No change in the Google Doc."
+            fi
+          else
+            echo "::warning::Google Doc not reachable or not public (Share > Anyone with the link > Viewer). Keeping the previous content."
+          fi
+
+      - name: Download world land outline (once)
+        run: |
+          [ -s assets/land-110m.json ] || curl -fsSL https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/land-110m.json -o assets/land-110m.json || true
+
+      - name: Commit synced content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content assets/land-110m.json || true
+          git diff --cached --quiet || (git commit -m "Sync content from Google Doc" && git push)
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
