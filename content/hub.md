@@ -93,7 +93,7 @@ The next step will be to secure funding for project coordination and administrat
 
 [**INFORMATION LOG	1**](#information-log)
 
-[2026.11.18 \- November Newsletter	1](#2026.11.18---november-newsletter)
+[2026.11.25 \- November Newsletter	1](#heading)
 
 [2026.11.12: Scheduling Meeting 1 Methodology	3](#2026.11.12:-scheduling-meeting-1-methodology)
 
@@ -101,7 +101,7 @@ The next step will be to secure funding for project coordination and administrat
 
 [2026.11.04: Methodological Task Force	5](#2026.11.04:-methodological-task-force)
 
-[2026.10.28: Global	7](#2026.10.28:-global)
+[2026.10.28: Global Newsletter	7](#2026.10.28:-global-newsletter)
 
 [2026.10.28: Theorisation Task force	9](#2026.10.28:-theorisation-task-force)
 
@@ -109,7 +109,53 @@ The next step will be to secure funding for project coordination and administrat
 
 [2026.03.27: Global Invitation	14](#2026.03.27:-global-invitation)
 
-## **2026.11.18 \- November Newsletter**  {#2026.11.18---november-newsletter}
+##  {#heading}
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## **2026.11.25 \- November Newsletter** 
 
 Subject: \[Worldview Assessment Project\] \- November Newsletter   
    
@@ -117,22 +163,26 @@ Dear colleagues,
 
 Thank you for your involvement in this project. This newsletter serves as a central update on the project's trajectory, covering our recently completed steps, ongoing work, and the upcoming steps that will require the team's participation.
 
-   
-What has been done  
+**What has been done**  
 \-   	Taskforces have been defined (Theorization and Methodology)  
 \-   	First meetings for each taskforce have been set (Nov. 25th for Theorization Taskforce; Dec. 9th for Methodology Taskforce)  
 \-   	Global language coordinators have been defined (core team, CRediT supervision)  
    
-Current Progress  
-\-   	Reviewing the Collaborator Agreement (questions, comments and suggestions are welcome)  
-\-   	Clarifying country-specific ethics approval procedures (feel free to share how this works at your institution)  
-\-   	Drafting the opinion paper for the project (lead team)  
-   
-   
-What’s next (and how you can help)  
-\-   	Defining a co-lead for project management (core team, CRediT project administration) : 2nd or last author position)  
-\-   	Defining an ethics coordinator and co-pilot (core team, CRediT supervision)  
-\-   	Defining a reference person (or two) for grants application
+**What is in current progress**  
+\-   	The Collaborator Agreement is reviewed and will be sent soon  
+\- 	A website is being set up for global hub and external communication  
+    
+**How you can help**  
+\-   	We are looking for a project management co-pilot (core team, project administration) : 2nd or last author position  
+\-   	We are looking for an ethics coordinator (core team, supervision) to clarify country-specific ethics approval procedures  
+\-   	We are looking for grant applications that could fit to the project in order to get fundings and support data collection in some countries  
+\- 	We are still recruiting collaborators from many areas that are not currently represented (Africa, South America, Asia)
+
+Because the lead team will have a break in late December, we may delay the next newsletter to early January.
+
+Have a great month.  
+–  
+David and Anaëlle
 
 ## 
 
@@ -237,7 +287,7 @@ Anaëlle Lara and David Vaidis
 
 ## 
 
-## **2026.10.28: Global** {#2026.10.28:-global}
+## **2026.10.28: Global Newsletter** {#2026.10.28:-global-newsletter}
 
 **Subject: \[WorldViews Assessment Project\] Newsletter and Project Update**
 
@@ -556,9 +606,12 @@ Methodology Taskforce \- Meeting Notes
 
 # **WorldViews Assessment Project \- Agreement Between Collaborators**
 
-version 01.90b — 22 Oct. 2026  
-version 01.91b — 06 Nov. 2026 \- minor amendment  
-Version 0.95b — 18 Nov. 2026 \- follow-up paper precision
+Versioning
+
+version 0.9b — 22 Oct. 2026 \- initial draft  
+version 0.91b — 06 Nov. 2026 \- minor amendment  
+version 0.95b — 18 Nov. 2026 \- follow-up paper precision  
+Version 0.96b — 25 Nov. 2026 \- participants and collaborators
 
 *Working draft for review by the full team* *— not yet open for signature. At this stage, all comments and suggestions are welcome.*
 
@@ -566,7 +619,7 @@ This Agreement Between Collaborators (ABC) follows the consideration list of Vai
 
 ## **At a glance — 7 key points**
 
-* # **Organisation**. Co-led by Anaelle LARA (PhD candidate, main contact) and David C. VAIDIS, Université de Toulouse. Taskforces (theory, methods and statistics, ethics, translation), each with a coordinator and a co-lead as link; a project manager is welcome.
+* # **Organisation**. Co-led by Anaelle LARA (PhD candidate, main contact) and David C. VAIDIS, Université de Toulouse. Taskforces (theory, methods and statistics, ethics, translation), each with a coordinator and a co-lead as link.
 
 * # **Sites**. Data collection site use a local sample (students and general population), with a target agreed with the lead team. No central budget: sites cover their own costs.
 
@@ -645,7 +698,7 @@ Data collection teams are expected to respond to project correspondence and meet
 
 ## **7\. Resource contribution**
 
-Each participating site is expected to collect data from a local population described in advance (including both students and general population). There is no fixed minimum sample size: each site will agree on a target with the lead team according to its own capacity. At this stage, the project has no dedicated budget, so recruitment costs are covered by each site. Sites with more resources may, however, offer to share them with sites that have fewer (see below).
+Each participating site is expected to collect data from a local population described in advance (including both students and general population). There is no fixed minimum sample size: each site will agree on a target with the lead team according to its own capacity and the number of site collaborators. At this stage, the project has no dedicated budget, so recruitment costs are covered by each site. Sites with more resources may, however, offer to share them with sites that have fewer (see below).
 
 Contributions go well beyond funding and data collection. Statistical, programming or theoretical expertise, infrastructure (servers, software), administrative support (ethics, grants, logistics), and translation and cultural adaptation are all valued, and they are credited through CRediT (Section 8).
 
