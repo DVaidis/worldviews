@@ -93,23 +93,43 @@ The next step will be to secure funding for project coordination and administrat
 
 [**INFORMATION LOG	1**](#information-log)
 
-[2026.11.25 \- November Newsletter	1](#heading)
+[2026.11.25 \- Theorization Taskforce Meeting 2 Scheduling	2](#2026.11.25---theorization-taskforce-meeting-2-scheduling)
 
-[2026.11.12: Scheduling Meeting 1 Methodology	3](#2026.11.12:-scheduling-meeting-1-methodology)
+[2026.11.25 \- Theorization Taskforce first meeting	2](#2026.11.25---theorization-taskforce-first-meeting)
 
-[2026.11.06: Scheduling Meeting 1 theorization	4](#2026.11.06:-scheduling-meeting-1-theorization)
+[2026.11.25 \- November Newsletter	3](#2026.11.25---november-newsletter)
 
-[2026.11.04: Methodological Task Force	5](#2026.11.04:-methodological-task-force)
+[2026.11.12: Scheduling Meeting 1 Methodology	5](#2026.11.12:-scheduling-meeting-1-methodology)
 
-[2026.10.28: Global Newsletter	7](#2026.10.28:-global-newsletter)
+[2026.11.06: Scheduling Meeting 1 theorization	6](#2026.11.06:-scheduling-meeting-1-theorization)
 
-[2026.10.28: Theorisation Task force	9](#2026.10.28:-theorisation-task-force)
+[2026.11.04: Methodological Task Force	7](#2026.11.04:-methodological-task-force)
 
-[2026.06.09: Global information	11](#2026.06.09:-global-information)
+[2026.10.28: Global Newsletter	9](#2026.10.28:-global-newsletter)
 
-[2026.03.27: Global Invitation	14](#2026.03.27:-global-invitation)
+[2026.10.28: Theorisation Task force	11](#2026.10.28:-theorisation-task-force)
 
-##  {#heading}
+[2026.06.09: Global information	13](#2026.06.09:-global-information)
+
+[2026.03.27: Global Invitation	16](#2026.03.27:-global-invitation)
+
+## 
+
+## **2026.11.25 \- Theorization Taskforce Meeting 2 Scheduling** {#2026.11.25---theorization-taskforce-meeting-2-scheduling}
+
+Subject: \[Worldview Assessment Project\] \- Theorization Taskforce Meeting 2 Scheduling
+
+Dear colleagues,
+
+To plan our second Theorization Taskforce meeting, we are looking for a slot either in mid-December or in early January.
+
+Could you please indicate your availability using the following [When2Meet link](https://www.when2meet.com/?40066101-BLqNH) so we can select the date that works best for everyone? 
+
+Please fill in your availability by Friday, December 4th. We will send you the meeting date via email and we will provide the connection link.
+
+Best regards,
+
+Anaëlle
 
 ## 
 
@@ -141,21 +161,35 @@ The next step will be to secure funding for project coordination and administrat
 
 ## 
 
-## 
+## **2026.11.25 \- Theorization Taskforce first meeting** {#2026.11.25---theorization-taskforce-first-meeting}
 
-## 
+Subject: \[Worldview Assessment Project\] \- Theorization Taskforce Meeting 1 Summary
 
-## 
+Dear colleagues,
 
-## 
+Thank you to everyone who joined our kick-off meeting for the Theorization Taskforce on November 25th. For those who could not attend, here is a brief recap of what we discussed and our next steps:
 
-## 
+**Conceptual Framing**
 
-## 
+* **Defining Worldviews:** Need to establish clear inclusion and exclusion criteria (what falls inside vs. outside the construct). Providing explicit definitions of key terms would be very useful.  
+* **Construct boundaries and literature:** Raised whether authoritarianism should be included under worldviews, as well as the rationale for relying on Koltko-Rivera's (2003) framework.
 
-## 
+**Survey Length**
 
-## **2026.11.25 \- November Newsletter** 
+* **Duration and attrition:** Survey length is a major concern, as participant drop-off increases significantly after 20 minutes. A length of 20 to 40 minutes was envisioned at first.  
+* **Shortened scales:** Recommended using validated short-form questionnaires and single-item measures where possible.  
+* **Modular survey design:** Confirmed as feasible. Assigning participants a random subset of scales keeps the survey short, while it introduces some statistical uncertainty and constraints for factor analysis, these can be managed statistically.
+
+**Format, Engagement and Recruitment**
+
+* **Mobile app vs. gamification:** Considered using a mobile app or a dedicated website to make the survey easier and more engaging, though gamification can be implemented without building a dedicated app. However, caution is needed as gamification could introduce measurement noise. This also raises ethical concerns, and thus needs further discussion.  
+* **Participant appeal and snowball sampling:** Suggested boosting engagement and encouraging snowball recruitment by making the survey more appealing and offering personalized profile feedback at the end.
+
+Have a great rest of your day.  
+–  
+David and Anaëlle
+
+## **2026.11.25 \- November Newsletter**  {#2026.11.25---november-newsletter}
 
 Subject: \[Worldview Assessment Project\] \- November Newsletter   
    
